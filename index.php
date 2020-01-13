@@ -25,7 +25,7 @@ function __($input){
     <link rel="stylesheet" href="assets/css/styles.css">
 
 
-    <title>Hello, world!</title>
+    <title>PLAPI-Project-1</title>
   </head>
   <body>
 
